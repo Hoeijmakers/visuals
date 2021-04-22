@@ -1,4 +1,4 @@
-# visuals
+# Visuals
 A collection of graphics and schematics for exoplanet astronomy.
 
 This is a collection of codes that create visuals for presentations and/or papers; or graphical images intended for repeat use. 
